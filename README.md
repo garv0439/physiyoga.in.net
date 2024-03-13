@@ -1,4 +1,4 @@
-# https-physiyoga.in.net-
+# physiyoga.in.net
 🎉 Excited to announce the launch of my first-ever project in the open world: "PhysiYoga!" 🚀
 
 After weeks of hard work, I'm thrilled to unveil my latest project, the "PhysiYoga" website. 💻 Using HTML, CSS, and JavaScript, I've created a dynamic and responsive platform that combines the best of physical therapy and yoga practices.
